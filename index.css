@@ -21,7 +21,7 @@ body {
     scroll-behavior: smooth;
 }
 .heronav {
-    width: 300vw;
+    width: 200vw;
     display: flex;
     flex-direction:row;
     scroll-snap-type:x mandatory;
